@@ -83,7 +83,7 @@ main {
     background-color: #2589bd;
 }
 
-/* condensed multiple classes into one called benefit */
+/* condensed multiple classes into ones called benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,7 +103,7 @@ main {
 }
 
 
-/* condensed multiple classes into one called content*/
+/* condensed multiple classes into ones called content*/
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,7 +125,7 @@ main {
     font-size: 36px;
 }
 
-
+/* change a class called footer into an actual footer */
 footer {
     padding: 30px;
     clear: both;
